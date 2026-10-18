@@ -1,1 +1,1 @@
-nivorahrms.netlify.com
+nivorahrms.netlify.app
